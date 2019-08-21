@@ -1,0 +1,6 @@
+classes= 80
+valid  = coco_testdev
+#valid = data/coco_val_5k.list
+names = data/coco_cn.names
+eval=coco
+
